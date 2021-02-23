@@ -42,3 +42,35 @@ button {
     color: #c5cbd0;
     border: 1px solid #c5cbd0;
 }
+
+.container-1 {
+    margin-left: 180px;
+    margin-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.checkmark-green {
+    vertical-align: middle;
+}
+
+.editorial {
+    display: inline-block;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 25px;
+    color: #ffffff;
+    width: 60px;
+    height: 25px;
+    background-color:#45abea;
+    border-radius: 10px;
+}
+
+.list-item {
+    margin-top: 10px;
+}
+
