@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.logo {
+   display: inline-block;
+   vertical-align: middle;
+   width: 45px;
+   height: 45px;
+   margin-top: 15px;
+   margin-left: 15px; 
+}
+
+.title {
+    display: inline-block;
+    font-size: 35px;
+    vertical-align: middle;
+    margin-top: 15px;    
+}
