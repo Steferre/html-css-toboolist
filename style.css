@@ -19,3 +19,26 @@
     vertical-align: middle;
     margin-top: 15px;    
 }
+
+.container {
+    margin-top: 70px;
+    margin-left: 180px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button-task {
+    background-color: #47adf1;
+    color: #ffffff;
+}
+
+.button-selection {
+    background-color: #ffffff;
+    color: #c5cbd0;
+    border: 1px solid #c5cbd0;
+}
