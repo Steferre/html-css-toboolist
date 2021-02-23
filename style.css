@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/*sezione header*/
 .logo {
    display: inline-block;
    vertical-align: middle;
@@ -20,6 +21,7 @@
     margin-top: 15px;    
 }
 
+/*sezione main*/
 .container {
     margin-top: 70px;
     margin-left: 180px;
@@ -46,11 +48,17 @@ button {
 .container-1 {
     margin-left: 180px;
     margin-top: 50px;
+    margin-bottom: 30px;
 }
 
+/*modifcatori della lista presente nel main*/
 ul {
     list-style-type: none;
     font-size: 20px;
+}
+
+.space{
+    margin-top: 40px;
 }
 
 .checkmark-green {
@@ -61,7 +69,8 @@ ul {
     vertical-align: middle;
 }
 
-#ellipse {
+/*elemento per la creazione della targhetta colorata*/
+.ellipse {
     display: inline-block;
     font-size: 12px;
     text-align: center;
@@ -71,24 +80,35 @@ ul {
     width: 60px;
     height: 25px;
     border-radius: 10px;
+    background-color:#45abea;
 }
 
 .list-item {
     margin-top: 10px;
 }
 
-.editorial {
-    background-color:#45abea;
-}
-
-.Q1-Goals {
+#Q1-Goals {
     background-color: #9c72e4;
 }
 
-.recruiting {
+#recruiting {
     background-color: #64c0a9;
 }
 
-.mobile {
+#mobile {
    background-color: #f29e33; 
 }
+
+#meeting {
+    background-color: gold;
+}
+
+#website {
+    background-color: #d863a1;
+}
+
+#sales {
+    background-color: #b0c926;
+}
+
+
